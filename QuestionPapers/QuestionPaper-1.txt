@@ -1,0 +1,20 @@
+Question Paper : Tue Aug 13 17:34:32 IST 2024
+1. Explain the Singleton Pattern. What are its key characteristics, and in which scenarios is it most appropriately used?
+
+2. Compare and contrast the Adapter Pattern and the Facade Pattern. Provide an example scenario where each would be used.
+
+3. Describe the Observer Pattern. How does it support decoupling in an object-oriented system? Give an example of its implementation.
+
+4. What is the difference between the Factory Method Pattern and the Abstract Factory Pattern? Provide a use case for each.
+
+5. How does the Strategy Pattern enable flexible design? Illustrate with an example where it can replace conditional logic.
+
+6. Discuss the Command Pattern. How does it encapsulate a request as an object, and what are the benefits of this encapsulation?
+
+7. Explain the Decorator Pattern. How can it be used to extend the functionalities of objects dynamically? Provide a code example.
+
+8. What are the main differences between the Proxy Pattern and the Decorator Pattern? In which scenarios would you choose one over the other?
+
+9. Describe the Chain of Responsibility Pattern. How does it promote loose coupling, and what are some practical applications of this pattern?
+
+10. Explain the concept of the State Pattern. How does it allow an object to alter its behavior when its internal state changes? Provide an example of its implementation.
