@@ -12,12 +12,19 @@ answer sheet should contain each question and their respective answer right belo
 
 Requirements
 1.question
+
 2.questionPaper
+
 3.answer
+
 4.answersheet
+
 5.api to connect with chatgpt and generate questionPaper based on user input.
+
 6.turn questionPaper to file/pdf.
+
 7.api to connect with chatgpt and generate answersheet based on questionPaper.
+
 8.turn answersheet to file/pdf.
 
 APIS:
